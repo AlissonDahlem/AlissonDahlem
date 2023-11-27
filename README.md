@@ -7,7 +7,7 @@
 </p>
 
 ```JavaScript
-  programming languages: ['JavaScript', 'TypeScript'],
+  programming languages: ['JavaScript', 'TypeScript', 'C++'],
   tools: [
       'Docker',
       'Jest',
