@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisson Dahlem</h1>
-<h3 align="center">I’m a Full Stack Web Developer at Allugator. I have a serious passion for Backend</h3>
+<h3 align="center">I’m a Full Stack Web Developer. I have a serious passion for Backend</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
