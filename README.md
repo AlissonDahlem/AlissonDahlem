@@ -7,19 +7,15 @@
 </p>
 
 ```JavaScript
-  programming languages: ['JavaScript', 'TypeScript', 'C++'],
+  programming languages: ['JavaScript', 'TypeScript', 'C++', 'Golang'],
   tools: [
       'Docker',
       'Jest',
       'React.js',
       'RTL',
       'Redux',
-      'Bootstrap',
       'Context api',
       'Git',
-      'HTML 5',
-      'CSS 3',
-      'FIGMA'
       'Express',
       'Node.js',
       'Chai',
