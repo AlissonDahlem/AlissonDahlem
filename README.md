@@ -19,7 +19,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
   <span> </span>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:alissondahlem@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -88,19 +88,3 @@
 - **AI must be measurable** (evals, metrics, regressions)
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=AlissonDahlem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonDahlem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200"
-  />
-</p>
-
-<!-- If GitHub caches a broken render, bump the version param: &v=2 -->
-<!-- Example: ...&cache_seconds=7200&v=2 -->
